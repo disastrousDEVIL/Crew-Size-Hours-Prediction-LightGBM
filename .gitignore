@@ -1,0 +1,48 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data files (raw, generated, large)
+data/*.csv
+data/*.parquet
+data/*.json
+*.pickle
+*.pkl
+
+# Model artifacts
+models/*.txt
+models/*.bin
+models/*.model
+models/*.joblib
+
+# FastAPI logs or temp files
+*.log
+
+# Cursor / VSCode workspace files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+*.env
+
+# Build or distribution artifacts
+dist/
+build/
+
+# Colab/temporary uploads
+*.ipynb_upload
