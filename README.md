@@ -154,6 +154,7 @@ http://127.0.0.1:8000/docs
 ## 👤 Author
 
 **Krish Batra**
+
 AI/ML Engineer | Developer of the MSP Optimization Suite
 
 🔗 [GitHub](https://github.com/disastrousDEVIL) • [LinkedIn](https://www.linkedin.com/in/krish-batra) • [Website](https://vybecode.in)
